@@ -4,23 +4,23 @@ sperno, ere(spretus): desprezar, desdenhar, menosprezar.
 averto, ere: desviar, voltar atrás, pôr em fuga, afastar, repelir.
 exuro, ere: queimar, incendiar, consumir, esgotar.
 jaculor, ari: atirar, jogar, proferir.
-disjicio, ere: lançar para todo canto, destruir, dissipar, dispersar.
+#disjicio, ere: lançar para todo canto, destruir, dissipar, dispersar.
 transfigo, ere: furar de lado, atravessar, traspassar
-corripio, ere: capturar, reunir à força, aprisionar, abater.
+#corripio, ere: capturar, reunir à força, aprisionar, abater.
 infigo, ere: fincar.
-incedo, ere: avançar, caminhar, invadir, propagar-se, penetrar.
+#incedo, ere: avançar, caminhar, invadir, propagar-se, penetrar.
 -mollo, ere: apaziguar, amaciar.
 -verro, ere: varrer.
 -jungo, ere: atrelar, unir, juntar.
 -eripio, ere: puxar violentamente.
 -intono, ere: trovejar, atroar.
 -mico, ere: agitar, palpitar.
--solvo, ere: desatar, desconectar, desagregar, desprender, levantar âncora.
+-#solvo, ere: desatar, desconectar, desagregar, desprender, levantar âncora.
 -ingemisco, ere: gemer, lamentar, chorar.
 -contingo,ere: tocar, atingir, ter relações com.
 -oppeto, ere: ir contra, afrontar, afrontar a morte, confrontar, encarar.
 -occumbo,ere: cair morto, perecer, sucumbir.
--corripio, ere: agarrar bruscamente, apoderar-se violentamente, reunir, ajuntar, recolher.
+-#corripio, ere: agarrar bruscamente, apoderar-se violentamente, reunir, ajuntar, recolher.
 -dehisco, ere: entreabrir-se, fender-se, abrir-se.
 -aperio, ere: descobrir, abrir, desvendar, cavar, expor, mostrar.
 -furo,ere: estar fora de si, entregar-se, estar doido.
@@ -32,19 +32,19 @@ incedo, ere: avançar, caminhar, invadir, propagar-se, penetrar.
 -cingo, ere: cingir, circundar, envolver, rodear.
 -excutio, ere: fazer cair, derrubar, sacudir, arremessar.
 -voro, are: devorar, engolir, dissipar.
--accipio, ere: tomar para si, receber, interpretar, apreender.
+-#accipio, ere: tomar para si, receber, interpretar, apreender.
 -fatisco, ere: fender-se, abrir-se, esgotar-se.
 -emitto, ere: deixar escapar, deixar paritr, largar, emitir.
 -sentio, ere: sentir, experimentar, perceber, ser de opinião.
 -refundo, ere: derramar de novo, refluir, repelir, devolver, restituir.
--prospicio, ere: olhar para diante, prever, estar atento a, espreitar, examinar.
+-#prospicio, ere: olhar para diante, prever, estar atento a, espreitar, examinar.
 -extollo,ere: elevar, reanimar, exaltar, diferir.
 -luo, ere: pagar, resgatar, remir.
 -maturo, ere: fazer amadurecer, apressar, acelerar.
 -reduco, ere: retirar, reconduzir, reduzir, restaurar, reparar.
 -detrudo, ere: empurrar do alto para baixo, precipitar, arrancar.
 -levo, are: aliviar, desonerar, diminuir, atenuar, reanimar, confortar, salvar.
--conspicio, ere: olhar, ver, avistar, considerar, pensar, compreender.
+-#conspicio, ere: olhar, ver, avistar, considerar, pensar, compreender.
 -adsto, are: estar junto de, parar junto, erguer-se, elevar-se perto de, estar perto.
 -contendo, ere: estender com todas as forças, entesar, rivalizar, pôr frente a frente, confrontar, encarar.
 -peto, ere: dirigir-se para, procurar alcançar, visar, solicitar.
@@ -53,7 +53,7 @@ incedo, ere: avançar, caminhar, invadir, propagar-se, penetrar.
 Line 206: -excudo, ere: fazer sair batendo, tirar, produzir, forjar, fabricar.
 Line 212: -torreo, ere: fazer secar, torrar, tostar, consumir, queimar.
 Line 213: -conscendo, ere: subir, trepar a, montar, elevar-se.
-Line 214: -prospecto, are: olhar para frente, contemplar.
+Line 214: -#prospecto, are: olhar para frente, contemplar.
 Line 219: -pasco, ere: nutrir, fazer crescer, pastar.
 Line 222: -constituo, ere: estabelecer, colocar, constituir, fundar, construir.
 Line 227: -sterno, ere: estender, abater, derrubar.
@@ -69,7 +69,7 @@ Line 272: -solor, ari: aliviar, reconfortar, consolar.
 Line 273: -rependo, ere: pesar de novo, pagar em troca, recompensar.
 Line 280: -quiesco, ere: repousar, dormir, padecer.
 Line 283: -prodo, ere: entregar, revelar, fazer aparecer, transmitir.
-Line 284: -disjungo, ere: desunir, desatrelar, desconectar, afastar, separar.
+Line 284: -#disjungo, ere: desunir, desatrelar, desconectar, afastar, separar.
 Line 286: -subrideo, ere: sorrir.
 Line 289: -for, ari: falar, dizer, contar, predizer.
 Line 291: -parco, ere: conter, reter, deter.
@@ -78,9 +78,9 @@ Line 303: -excipio, ere: tomar a parte, pôr de lado, acolher, receber, substitu
 Line 305: -foveo, ere: aquecer, favorecer, sustentar, cuidar.
 Line 306: -termino, ere: limitar, delimitar.
 Line 310: -mitesco, ere: amolecer, abrandar-se, domesticar-se, amadurecer.
-Line 311: -pono, ere: pôr de lado, afastar, pousar, instalar, fixar, atribuir, considerar como.
+Line 311: -#pono, ere: pôr de lado, afastar, pousar, instalar, fixar, atribuir, considerar como.
 Line 326: -pateo, ere: estar patente, estar disposto a.
-Line 333: -accedo, ere: dirigir-se para, aproximar-se, marchar contra, penetrar.
+Line 333: -#accedo, ere: dirigir-se para, aproximar-se, marchar contra, penetrar.
 Line 334: -teneo, ere: segurar, ter, possuir, ocupar, manter, reter.
 Line 336: -quaero, ere: procurar, buscar, investigar, procurar saber, inquerir.
 Line 340: -occulo,ere: esconder, ocultar, cobrir, dissimular.
@@ -114,7 +114,7 @@ Line 421: -pergo, ere: prosseguir o caminho, continuar, avançar, seguir.
 Line 428: -reduco, ere: retirar, reconduzir, redirecionar, restabelecer.
 Line 429: -verro, ere: varrer, arrastar, arrebatar, roubar.
 Line 430: -doceo, ere: ensinar, instruir, repetir.
-Line 433: -aspicio, ere: olhar para, estar voltado para, examinar, considerar.
-Line 444: -capio, ere: apanhar, capturar, apreender.
-Line 445: -despecto, are: olhar de cima, desprezar, dominar.
+Line 433: -#aspicio, ere: olhar para, estar voltado para, examinar, considerar.
+Line 444: -#capio, ere: apanhar, capturar, apreender.
+Line 445: -#despecto, are: olhar de cima, desprezar, dominar.
 Line 447: -cingo, ere: circundar, envolver, rodear.
