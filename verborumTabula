@@ -7,12 +7,12 @@ jaculor, ari: atirar, jogar, proferir.
 #disjicio, ere: lançar para todo canto, destruir, dissipar, dispersar.
 transfigo, ere: furar de lado, atravessar, traspassar
 #corripio, ere: capturar, reunir à força, aprisionar, abater.
-infigo, ere: fincar.
+#infigo, ere: fincar.
 #incedo, ere: avançar, caminhar, invadir, propagar-se, penetrar.
 -mollo, ere: apaziguar, amaciar.
 -verro, ere: varrer.
--jungo, ere: atrelar, unir, juntar.
--eripio, ere: puxar violentamente.
+-#jungo, ere: atrelar, unir, juntar.
+-#eripio, ere: puxar violentamente.
 -intono, ere: trovejar, atroar.
 -mico, ere: agitar, palpitar.
 -#solvo, ere: desatar, desconectar, desagregar, desprender, levantar âncora.
@@ -31,40 +31,40 @@ infigo, ere: fincar.
 -veho, ere: transportar por terra, por mar, por navio; fazer-se transportar.
 -cingo, ere: cingir, circundar, envolver, rodear.
 -excutio, ere: fazer cair, derrubar, sacudir, arremessar.
--voro, are: devorar, engolir, dissipar.
+-#voro, are: devorar, engolir, dissipar.
 -#accipio, ere: tomar para si, receber, interpretar, apreender.
 -fatisco, ere: fender-se, abrir-se, esgotar-se.
 -emitto, ere: deixar escapar, deixar paritr, largar, emitir.
 -sentio, ere: sentir, experimentar, perceber, ser de opinião.
 -refundo, ere: derramar de novo, refluir, repelir, devolver, restituir.
 -#prospicio, ere: olhar para diante, prever, estar atento a, espreitar, examinar.
--extollo,ere: elevar, reanimar, exaltar, diferir.
+-#extollo,ere: elevar, reanimar, exaltar, diferir.
 -luo, ere: pagar, resgatar, remir.
 -maturo, ere: fazer amadurecer, apressar, acelerar.
 -reduco, ere: retirar, reconduzir, reduzir, restaurar, reparar.
 -detrudo, ere: empurrar do alto para baixo, precipitar, arrancar.
--levo, are: aliviar, desonerar, diminuir, atenuar, reanimar, confortar, salvar.
+-#levo, are: aliviar, desonerar, diminuir, atenuar, reanimar, confortar, salvar.
 -#conspicio, ere: olhar, ver, avistar, considerar, pensar, compreender.
 -adsto, are: estar junto de, parar junto, erguer-se, elevar-se perto de, estar perto.
 -contendo, ere: estender com todas as forças, entesar, rivalizar, pôr frente a frente, confrontar, encarar.
--peto, ere: dirigir-se para, procurar alcançar, visar, solicitar.
+-#peto, ere: dirigir-se para, procurar alcançar, visar, solicitar.
 -immineo, ere: estar situado, pendurado; ameaçar, estar iminente.
 -tabeo, ere: fundir-se, liquefazer-se,escorrer, deteriorar.
 Line 206: -excudo, ere: fazer sair batendo, tirar, produzir, forjar, fabricar.
 Line 212: -torreo, ere: fazer secar, torrar, tostar, consumir, queimar.
-Line 213: -conscendo, ere: subir, trepar a, montar, elevar-se.
+Line 213: -#conscendo, ere: subir, trepar a, montar, elevar-se.
 Line 214: -#prospecto, are: olhar para frente, contemplar.
 Line 219: -pasco, ere: nutrir, fazer crescer, pastar.
-Line 222: -constituo, ere: estabelecer, colocar, constituir, fundar, construir.
+Line 222: -#constituo, ere: estabelecer, colocar, constituir, fundar, construir.
 Line 227: -sterno, ere: estender, abater, derrubar.
-Line 231: -fundo, are: firmar, assegurar, consolidar, fixar.
+Line 231: -#fundo, are: firmar, assegurar, consolidar, fixar.
 Line 232: -aequo, are: igualar, nivelar, chegar a, pôr no mesmo patamar.
 Line 237: -abeo, ere: ir-se, ir embora, livrar-se de.
 Line 254: -exaudio, ere: ouvir bem, prestar atenção, atender a uma súplica.
-Line 260: -defigo, ere: enfiar, enterrar, atar, prender, encantar.
+Line 260: -#defigo, ere: enfiar, enterrar, atar, prender, encantar.
 Line 262: -suffundo, ere: derramar, banhar, regar, inundar, molhar.
 Line 264: -terreo, ere: fazer tremer, afugentar repelir.
-Line 266: -committo, ere: juntar, reunir; confrontar, comparar; empreender; pelejar, travar combate.
+Line 266: -#committo, ere: juntar, reunir; confrontar, comparar; empreender; pelejar, travar combate.
 Line 272: -solor, ari: aliviar, reconfortar, consolar.
 Line 273: -rependo, ere: pesar de novo, pagar em troca, recompensar.
 Line 280: -quiesco, ere: repousar, dormir, padecer.
@@ -72,7 +72,7 @@ Line 283: -prodo, ere: entregar, revelar, fazer aparecer, transmitir.
 Line 284: -#disjungo, ere: desunir, desatrelar, desconectar, afastar, separar.
 Line 286: -subrideo, ere: sorrir.
 Line 289: -for, ari: falar, dizer, contar, predizer.
-Line 291: -parco, ere: conter, reter, deter.
+Line 291: -#parco, ere: conter, reter, deter.
 Line 293: -expleo, ere: encher plenamente, entulhar, completar, executar, acabar.
 Line 303: -excipio, ere: tomar a parte, pôr de lado, acolher, receber, substituir, vir depois, suceder.
 Line 305: -foveo, ere: aquecer, favorecer, sustentar, cuidar.
@@ -81,36 +81,36 @@ Line 310: -mitesco, ere: amolecer, abrandar-se, domesticar-se, amadurecer.
 Line 311: -#pono, ere: pôr de lado, afastar, pousar, instalar, fixar, atribuir, considerar como.
 Line 326: -pateo, ere: estar patente, estar disposto a.
 Line 333: -#accedo, ere: dirigir-se para, aproximar-se, marchar contra, penetrar.
-Line 334: -teneo, ere: segurar, ter, possuir, ocupar, manter, reter.
-Line 336: -quaero, ere: procurar, buscar, investigar, procurar saber, inquerir.
+Line 334: -#teneo, ere: segurar, ter, possuir, ocupar, manter, reter.
+Line 336: -#quaero, ere: procurar, buscar, investigar, procurar saber, inquerir.
 Line 340: -occulo,ere: esconder, ocultar, cobrir, dissimular.
 Line 346: -crispo, ere: crispar, brandir, agitar, frisar.
 Line 348: -exeo, ire: sair, desembarcar, transpor, atravessar, escapar.
-Line 352: -praeverto, ere: fazer passar diante, preferir, ir na frente, preceder, surpreender.
-Line 357: -colligo, ere: ligar junto, coligir, amarrar, prender, combinar.
+Line 352: -#praeverto, ere: fazer passar diante, preferir, ir na frente, preceder, surpreender.
+Line 357: -#colligo, ere: ligar junto, coligir, amarrar, prender, combinar.
 Line 371: doceo, ere: fazer aprender, ensinar, repetir, instruir.
 Line 372: gesto,are: levar daqui e dali, transportar, denunciar.
-Line 375: vincio, ire: atar, amarrar, prender.
+Line 375: #vincio, ire: atar, amarrar, prender.
 Line 385: -ludo, ere: (lúdico): divertir-se, entreter-se, brincar, frescar, escarnecer.
 Line 386: -celo, are: esconder, encobrir, ocultar.
-Line 387: -attollo, ere: elevar, ascender, sustentar.
+Line 387: -#attollo, ere: elevar, ascender, sustentar.
 Line 389: -retego, ere: descobrir, desvendar, revelar.
-Line 390: -celero, are: apressar, acelerar, apressar-se, dirigir-se.
+Line 390: -#celero, are: apressar, acelerar, apressar-se, dirigir-se.
 Line 391: -excedo, ere: sair de, retirar-se, desaparecer, passar além de.
 Line 392: -suadeo, ere: aconselhar, dar conselhos, exortar, impedir.
 Line 394: -recludo, ere: abrir, desvendar, revelar.
-Line 397: -convenio, ire: vir junto, reunir-se, encontrar-se, ajustar-se, ficar de acordo.
+Line 397: -#convenio, ire: vir junto, reunir-se, encontrar-se, ajustar-se, ficar de acordo.
 Line 398: -onero, are: carregar, onerar, cumular, sobrecarregar.
-Line 400: -devenio, ere: vir de, chegar a, dirigir-se a, cair em.
-Line 401: -cerno, ere: discernir, ver, perceber, distinguir, peneirar, dissociar.
+Line 400: -#devenio, ere: vir de, chegar a, dirigir-se a, cair em.
+Line 401: -#cerno, ere: discernir, ver, perceber, distinguir, peneirar, dissociar.
 Line 405: -vaco, are: estar vazio, estar desocupado, estar disposto a.
 Line 409: -appelo, are: chamar, dirigir-se para, nomear, mencionar, proclamar.
 Line 411: -conscendo, ere: subir, trepar, montar, embarcar.
-Line 414: -compono, ere: juntar, reunir, guardar, constituir, construir, compor, instalar.
-Line 415: -peragro, are: percorrer, visitar, penetrar, insinuar-se.
+Line 414: -#compono, ere: juntar, reunir, guardar, constituir, construir, compor, instalar.
+Line 415: -#peragro, are: percorrer, visitar, penetrar, insinuar-se.
 Line 417: -pello, ere: impelir, lançar, expulsar, repelir, atingir.
 Line 420: -carpo,ere: colher, arrancar, desfiar, rasgar, consumir, desmanchar.
-Line 421: -pergo, ere: prosseguir o caminho, continuar, avançar, seguir.
+Line 421: -#pergo, ere: prosseguir o caminho, continuar, avançar, seguir.
 Line 428: -reduco, ere: retirar, reconduzir, redirecionar, restabelecer.
 Line 429: -verro, ere: varrer, arrastar, arrebatar, roubar.
 Line 430: -doceo, ere: ensinar, instruir, repetir.
